@@ -1,27 +1,157 @@
-# 💫 About Me:
-Hi, I'm Sahil Hasure 👋<br>Computer Science Engineering Student | Open Source Contributor | Problem Solver<br><br>I'm a passionate CSE student focused on Data Structures & Algorithms, Software Development, Open Source, and AI-driven solutions. I enjoy transforming ideas into real-world applications while continuously improving my problem-solving and development skills.<br><br>🚀 About Me<br>🎓 Pursuing Computer Science Engineering<br>💻 Strong foundation in C++, Python, OOP, and DSA<br>🌱 Currently exploring Full-Stack Development and AI<br>🤝 Open Source Contributor at GirlScript Summer of Code (GSSoC)<br>🏆 Runner-Up at HackNexus Hackathon<br>📈 Consistently improving through coding challenges and project building<br>🎯 Goal: Become a Software Development Engineer and contribute to impactful products
+<h1 align="center">Hi 👋, I'm Sahil Hasure</h1>
+<h3 align="center">🚀 CSE Student | 💻 DSA Enthusiast | 🌟 Open Source Contributor | 🏆 Hackathon Runner-Up</h3>
 
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=28&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Welcome+to+my+GitHub!;C%2B%2B+Developer;Open+Source+Contributor;DSA+Learner;Future+Software+Engineer" alt="Typing SVG" />
+</p>
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/sahil_hasure985) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/sahil-hasure) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sahilhasure08@gmail.com) 
-
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![Apache Airflow](https://img.shields.io/badge/Apache%20Airflow-017CEE?style=for-the-badge&logo=Apache%20Airflow&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black) ![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=SahilHasure99&theme=default&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=SahilHasure99&theme=default&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=SahilHasure99&theme=default&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=SahilHasure99&theme=default_repocard&no-frame=false&no-bg=true&margin-w=4)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=SahilHasure99&limit=5&theme=dark&combine_all_yearly_contributions=true)
+<p align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExN2s0MzE0bDl6YW5hOWQ5eDNwY2t5M2JwcWhlbjF6bHVyb2c0c3k0NCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/l0HlNaQ6gWfllcjDO/giphy.gif" width="350"/>
+</p>
 
 ---
-[![](https://komarev.com/ghpvc/?username=SahilHasure99&icon=4&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+# 🚀 About Me
+
+✨ Passionate about building projects and solving real-world problems.
+
+🎓 Computer Science Engineering Student
+
+🌱 Currently learning **Advanced DSA, Full Stack Development & AI**
+
+💻 Strong in **C++, Python, OOP, DBMS & Problem Solving**
+
+🤝 Contributor at **GirlScript Summer of Code (GSSoC)**
+
+🏆 Runner-Up at **HackNexus Hackathon**
+
+🎯 Goal: Become a Software Development Engineer
+
+⚡ Fun Fact: **"Consistency beats motivation."**
+
+---
+
+# 🌐 Connect With Me
+
+<p align="center">
+<a href="https://linkedin.com/in/sahil-hasure">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:sahilhasure08@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://github.com/YOUR_USERNAME">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+</p>
+
+---
+
+# 🛠️ Tech Stack
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=c,cpp,python,html,css,javascript,mysql,git,github,vscode&perline=5" />
+</p>
+
+---
+
+# 🏆 Achievements
+
+🥇 Open Source Contributor — GSSoC
+
+🥈 Runner-Up — HackNexus Hackathon
+
+📜 Deloitte Technology Virtual Experience
+
+📜 J.P. Morgan Quantitative Research Virtual Experience
+
+🔥 Consistent DSA & Competitive Programming Learner
+
+---
+
+# 🚀 Featured Projects
+
+### 🏦 Loan Approval System
+
+✔️ C++ + OOP + File Handling
+
+✔️ EMI Calculation
+
+✔️ Loan Eligibility Verification
+
+---
+
+### 📚 Library Management System
+
+✔️ HTML, CSS & JavaScript
+
+✔️ User-Friendly Interface
+
+✔️ Book Management Features
+
+---
+
+### 🤖 Nexus Scanner
+
+✔️ AI-Powered Terms & Conditions Analyzer
+
+✔️ Risk Detection & Summary Generation
+
+✔️ Consumer Privacy Protection
+
+---
+
+# 📊 GitHub Analytics
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" height="180"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight" height="180"/>
+</p>
+
+<p align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight"/>
+</p>
+
+---
+
+# 🏅 GitHub Trophies
+
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=tokyonight&row=1&column=7"/>
+</p>
+
+---
+
+# 🎯 2026 Goals
+
+✅ Solve 300+ DSA Problems
+
+✅ Contribute to More Open Source Projects
+
+✅ Build Production-Ready Applications
+
+✅ Learn AI & Machine Learning
+
+✅ Secure a Software Development Internship
+
+---
+
+# 🐍 Contribution Snake
+
+<p align="center">
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="snake animation"/>
+</p>
+
+---
+
+# 💭 Developer Quote
+
+> 💡 "First, solve the problem. Then, write the code."
+
+---
+
+<p align="center">
+⭐ If you like my work, consider giving a star to my repositories!
+</p>
