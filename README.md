@@ -1,157 +1,181 @@
-<h1 align="center">Hi 👋, I'm Sahil Hasure</h1>
-<h3 align="center">🚀 CSE Student | 💻 DSA Enthusiast | 🌟 Open Source Contributor | 🏆 Hackathon Runner-Up</h3>
+<div align="center">
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=28&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Welcome+to+my+GitHub!;C%2B%2B+Developer;Open+Source+Contributor;DSA+Learner;Future+Software+Engineer" alt="Typing SVG" />
-</p>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,25:1F6FEB,50:58A6FF,75:7C3AED,100:C084FC&height=250&section=header&text=Sahil%20Hasure&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=Computer%20Science%20Engineering%20Student%20|%20Open%20Source%20Contributor%20|%20Problem%20Solver&descAlignY=60"/>
 
-<p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExN2s0MzE0bDl6YW5hOWQ5eDNwY2t5M2JwcWhlbjF6bHVyb2c0c3k0NCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/l0HlNaQ6gWfllcjDO/giphy.gif" width="350"/>
-</p>
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=30&pause=1000&color=58A6FF&center=true&vCenter=true&width=900&lines=Hi+%F0%9F%91%8B+I'm+Sahil+Hasure;Computer+Science+Engineering+Student;Open+Source+Contributor+%7C+GSSoC;DSA+Enthusiast+%7C+Problem+Solver;Future+Software+Development+Engineer;Always+Learning+New+Technologies"/>
+
+<img src="https://komarev.com/ghpvc/?username=SahilHasure99&label=Profile%20Views&color=58A6FF&style=for-the-badge" />
+
+</div>
 
 ---
 
-# 🚀 About Me
+<div align="center">
+<img width="450" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
+</div>
 
-✨ Passionate about building projects and solving real-world problems.
+# 💫 About Me
+
+<img align="right" width="300" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif">
 
 🎓 Computer Science Engineering Student
 
-🌱 Currently learning **Advanced DSA, Full Stack Development & AI**
+💻 Passionate about **Data Structures & Algorithms**
 
-💻 Strong in **C++, Python, OOP, DBMS & Problem Solving**
-
-🤝 Contributor at **GirlScript Summer of Code (GSSoC)**
+🌟 Open Source Contributor at **GirlScript Summer of Code (GSSoC)**
 
 🏆 Runner-Up at **HackNexus Hackathon**
 
-🎯 Goal: Become a Software Development Engineer
+🌱 Currently Learning **Full Stack Development, AI & Machine Learning**
 
-⚡ Fun Fact: **"Consistency beats motivation."**
+📚 Strong Foundation in **C++, Python, OOP, DBMS, OS**
+
+🎯 Aspiring **Software Development Engineer**
+
+⚡ Consistently improving through coding challenges and project building
+
+🔥 Believer in continuous learning and growth
+
+<br clear="right"/>
 
 ---
 
-# 🌐 Connect With Me
+## 🌐 Connect With Me
 
-<p align="center">
+<div align="center">
+
 <a href="https://linkedin.com/in/sahil-hasure">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
 <a href="mailto:sahilhasure08@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
-<a href="https://github.com/YOUR_USERNAME">
+<a href="https://instagram.com/sahil_hasure985">
+<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+</a>
+
+<a href="https://github.com/SahilHasure99">
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
-</p>
+
+</div>
 
 ---
 
-# 🛠️ Tech Stack
+## 💻 Tech Stack
 
-<p align="center">
-<img src="https://skillicons.dev/icons?i=c,cpp,python,html,css,javascript,mysql,git,github,vscode&perline=5" />
-</p>
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=c,cpp,python,java,html,css,javascript,mysql,git,github,vscode,figma&theme=dark"/>
+
+</div>
 
 ---
 
-# 🏆 Achievements
+## 🏆 Achievements
 
-🥇 Open Source Contributor — GSSoC
+<div align="center">
+
+🌟 Contributor — GirlScript Summer of Code (GSSoC)
 
 🥈 Runner-Up — HackNexus Hackathon
 
-📜 Deloitte Technology Virtual Experience
+📜 Deloitte Technology Virtual Experience Program
 
 📜 J.P. Morgan Quantitative Research Virtual Experience
 
-🔥 Consistent DSA & Competitive Programming Learner
+🔥 Active DSA & Competitive Programming Learner
+
+</div>
 
 ---
 
-# 🚀 Featured Projects
+## 📊 GitHub Stats
 
-### 🏦 Loan Approval System
+<div align="center">
 
-✔️ C++ + OOP + File Handling
+<img height="170" src="https://github-readme-stats.shion.dev/api?username=SahilHasure99&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"/>
 
-✔️ EMI Calculation
+<img height="170" src="https://github-readme-stats.shion.dev/api/top-langs/?username=SahilHasure99&theme=tokyonight&hide_border=true&layout=compact"/>
 
-✔️ Loan Eligibility Verification
+</div>
 
----
+<div align="center">
 
-### 📚 Library Management System
+<img src="https://streak-stats.demolab.com?user=SahilHasure99&theme=tokyonight&hide_border=true"/>
 
-✔️ HTML, CSS & JavaScript
-
-✔️ User-Friendly Interface
-
-✔️ Book Management Features
+</div>
 
 ---
 
-### 🤖 Nexus Scanner
+## 📈 Contribution Graph
 
-✔️ AI-Powered Terms & Conditions Analyzer
+<div align="center">
 
-✔️ Risk Detection & Summary Generation
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=SahilHasure99&theme=tokyo-night&hide_border=true&area=true"/>
 
-✔️ Consumer Privacy Protection
-
----
-
-# 📊 GitHub Analytics
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" height="180"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight" height="180"/>
-</p>
-
-<p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight"/>
-</p>
+</div>
 
 ---
 
-# 🏅 GitHub Trophies
+## 🔝 Top Contributed Repositories
 
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=tokyonight&row=1&column=7"/>
-</p>
+<div align="center">
 
----
+<img src="https://github-contributor-stats.vercel.app/api?username=SahilHasure99&limit=5&theme=tokyonight&combine_all_yearly_contributions=true"/>
 
-# 🎯 2026 Goals
-
-✅ Solve 300+ DSA Problems
-
-✅ Contribute to More Open Source Projects
-
-✅ Build Production-Ready Applications
-
-✅ Learn AI & Machine Learning
-
-✅ Secure a Software Development Internship
+</div>
 
 ---
 
-# 🐍 Contribution Snake
+## ✍️ Random Developer Quote
 
-<p align="center">
-<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="snake animation"/>
-</p>
+<div align="center">
 
----
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
 
-# 💭 Developer Quote
-
-> 💡 "First, solve the problem. Then, write the code."
+</div>
 
 ---
 
-<p align="center">
-⭐ If you like my work, consider giving a star to my repositories!
-</p>
+## 🐍 Contribution Snake
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg"/>
+
+</div>
+
+---
+
+<div align="center">
+
+### 🚀 Current Focus
+
+💡 Data Structures & Algorithms
+
+🌐 Full Stack Development
+
+🤖 Artificial Intelligence & Machine Learning
+
+🌟 Open Source Contributions
+
+🏆 Competitive Programming
+
+</div>
+
+---
+
+<div align="center">
+
+### 💭 Favorite Quote
+
+**"First, solve the problem. Then, write the code."** — John Johnson
+
+⭐ If you like my work, consider starring my repositories!
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:C084FC,25:7C3AED,50:58A6FF,75:1F6FEB,100:0D1117&height=120&section=footer"/>
